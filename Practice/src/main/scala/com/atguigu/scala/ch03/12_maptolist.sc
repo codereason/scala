@@ -18,3 +18,4 @@ names.flatMap(ulcase)
 names.foreach(println)
 
 
+java.util.HashMap

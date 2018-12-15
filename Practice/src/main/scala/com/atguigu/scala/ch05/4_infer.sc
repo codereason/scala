@@ -15,4 +15,4 @@ valueAtOneQuarter(3 * _)
 val fun2 = 3 * (_: Double) // OK
 val fun3: (Double) => Double = 3 * _ // OK
 
-val fun1 = 3 * _ // Error: Can’t infer types
+//val fun1 = 3 * _ // Error: Can’t infer types

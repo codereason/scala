@@ -9,7 +9,7 @@ for (elem <- a if elem % 2 == 0) yield 2 * elem
 
 
 a.filter(_ % 2 == 0).map(2 * _)
-
+Stack
 
 // 常用方法
 import scala.collection.mutable.ArrayBuffer

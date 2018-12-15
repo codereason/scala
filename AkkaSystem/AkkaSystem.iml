@@ -11,6 +11,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="scala-sdk-2.12.6" level="application" />
     <orderEntry type="library" name="Maven: com.typesafe.akka:akka-actor_2.11:2.5.4" level="project" />
     <orderEntry type="library" name="Maven: com.typesafe:config:1.3.1" level="project" />
     <orderEntry type="library" name="Maven: org.scala-lang.modules:scala-java8-compat_2.11:0.7.0" level="project" />
@@ -27,6 +28,6 @@
     <orderEntry type="library" name="Maven: com.typesafe.akka:akka-http-core_2.11:10.0.9" level="project" />
     <orderEntry type="library" name="Maven: com.typesafe.akka:akka-parsing_2.11:10.0.9" level="project" />
     <orderEntry type="library" name="Maven: com.typesafe.akka:akka-protobuf_2.11:2.5.4" level="project" />
-    <orderEntry type="library" name="Maven: org.scala-lang:scala-library:2.10.2" level="project" />
+    <orderEntry type="library" name="Maven: org.scala-lang:scala-library:2.12.6" level="project" />
   </component>
 </module>

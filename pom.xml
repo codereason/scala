@@ -16,7 +16,7 @@
     </modules>
 
     <properties>
-        <scala.version>2.10.2</scala.version>
+        <scala.version>2.12.6</scala.version>
     </properties>
 
     <dependencies>
